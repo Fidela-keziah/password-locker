@@ -1,7 +1,7 @@
 # {Password-Locker}
 
 #### {application that will help us manage our passwords and even generate new passwords for us.}, {13 March 2021}
-#### By **{Fidela-Keziah}**
+#### By:Fidela-Keziah
 
 ## Description
 

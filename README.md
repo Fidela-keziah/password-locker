@@ -13,7 +13,7 @@ The project is about a python application that manages credentials account of a 
 * Open Terminal
 * Google Chrome
 * internet
-* [git clone]
+* [git clone]:git@github.com:Fidela-keziah/password-locker.git
 
 ## Application Used
 

@@ -5,7 +5,7 @@
 
 ## Description
 
-{This project is a python application that manages credentials account of a person  i.e. account name, username and passwords for each account. It also stores the passwords and generates a unique password for a user if they do not want to generate new passwords by themselves. }
+This project is a python application that manages credentials account of a person  i.e. account name, username and passwords for each account. It also stores the passwords and generates a unique password for a user if they do not want to generate new passwords by themselves.
 
 ## Cloning
 
